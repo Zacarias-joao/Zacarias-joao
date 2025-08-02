@@ -6,13 +6,13 @@ Hi! I'm Zacarias Daniel João — a student and developer passionate about purpo
 
 Self-taught in software development, cybersecurity, and good project practices (SDLC). I completed high school in the Computer Systems Management program at Instituto Lucrécio Dos Santos, where I gained skills in C programming and mastery of both operating systems (Windows and Linux). I use online courses, consistent practice, and structured methods (like Trello) to guide my technical growth.
 
-💡 Interests
+     Interests
 
 - Software Development: Building intuitive interfaces with Python and Tkinter  
 - Digital Wellness: Creating projects that encourage healthy habits while using the computer  
 - Lifelong Learning: Exploring automation, networking, cybersecurity, and project management
 
-🛠️ Projects
+      Projects
 
 **Tc⁺ — Digital Wellness Assistant**  
 An application developed in Python with a Tkinter-based GUI. It tracks computer usage and sends personalized reminders to encourage breaks and self-care.  
