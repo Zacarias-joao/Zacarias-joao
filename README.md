@@ -26,3 +26,4 @@ A simple tool for logging focus and rest periods.
 
 If you'd like to share ideas, collaborate, or just chat about creative tech projects:  
 📧 zacariaszpops@gmail.com  
+Visit My protfolio: https://zacarias-joao.github.io/portfolio/
